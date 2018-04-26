@@ -1,4 +1,4 @@
 tags
 __pycache__
-.pem
-.sh
+*.pem
+*.sh
